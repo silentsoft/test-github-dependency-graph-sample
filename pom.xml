@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>org.silentsoft</groupId>
 	<artifactId>test-github-dependency-graph-sample</artifactId>
-	<version>0.2.0</version>
+	<version>0.2.1</version>
 	<url>https://github.com/silentsoft/test-github-dependency-graph-sample</url>
 	<scm>
 		<url>https://github.com/silentsoft/test-github-dependency-graph-sample.git</url>
@@ -13,7 +13,7 @@
 		<dependency>
 			<groupId>org.silentsoft</groupId>
 			<artifactId>test-github-dependency-graph-origin</artifactId>
-			<version>1.4.1</version>
+			<version>1.4.2</version>
 		</dependency>
 	</dependencies>
 </project>
